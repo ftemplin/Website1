@@ -1,4 +1,4 @@
-alert("Connected to Website1");
+// alert("Connected to Website1");
 
 var firstInput = document.querySelector("li");
 
